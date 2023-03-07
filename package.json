@@ -1,5 +1,5 @@
 {
-  "name": "projeto-js",
+  "name": "animais-fantasticos",
   "version": "1.0.0",
   "description": "",
   "main": "scriptAula.js",
@@ -7,7 +7,6 @@
     "dev": "webpack --mode development --watch --entry ./js/main.js -o ./main.js",
     "build": "webpack --mode production --entry ./js/main.js -o ./main.js"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.35.0",
